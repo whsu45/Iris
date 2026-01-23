@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>URL Dashboard Monitor</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🖥️ URL Dashboard Monitor</h1>
+      <div class="controls">
+        <span class="page-info">Page <span id="currentPage">1</span> of <span id="totalPages">1</span></span>
+        <button id="prevBtn">← Previous</button>
+        <button id="nextBtn">Next →</button>
+        <button class="refresh-btn" id="refreshBtn">↻ Refresh</button>
+        <button class="open-all-btn" id="openAllBtn">📂 Open All</button>
+      </div>
+    </div>
+    <div class="grid" id="grid"></div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
