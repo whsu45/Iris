@@ -10,7 +10,7 @@ Monitor and preview 22+ websites in real-time with beautiful, responsive design.
 
 ![Iris Dashboard Preview](docs/screenshots/preview.png)
 
-**[→ Click to open live dashboard](https://YOUR_USERNAME.github.io/iris/)**
+**[→ Click to open live dashboard](https://whsu45.github.io/iris/)**
 
 ---
 
