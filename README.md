@@ -8,9 +8,7 @@ Monitor and preview 22+ websites in real-time with beautiful, responsive design.
 
 ## 📸 Preview
 
-![Iris Dashboard Preview](docs/screenshots/preview.png)
-
-**[→ Click to open live dashboard](https://whsu45.github.io/iris/)**
+**[→ Click to open live dashboard](https://whsu45.github.io/Iris/)**
 
 ---
 
@@ -70,7 +68,7 @@ Monitor and preview 22+ websites in real-time with beautiful, responsive design.
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/whsu45/iris.git
+git clone https://github.com/whsu45/Iris.git
 cd iris
 ```
 
