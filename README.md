@@ -70,46 +70,10 @@ Monitor and preview 22+ websites in real-time with beautiful, responsive design.
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/iris.git
+git clone https://github.com/whsu45/iris.git
 cd iris
 ```
 
-**Project Structure:**
-```
-iris/
-├── docs/
-│   ├── index.html           # Main dashboard
-│   ├── css/
-│   │   └── style.css        # Styling
-│   ├── js/
-│   │   └── app.js           # Core application logic
-│   └── screenshots/         # Preview images
-├── README.md                # This file
-└── .github/
-    └── workflows/           # CI/CD (optional)
-```
-
-**Open locally:**
-```bash
-# Using Python 3
-python -m http.server 8000
-
-# Or using Node.js
-npx http-server
-```
-
-Then visit: `http://localhost:8000/docs/`
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | HTML5, CSS3, JavaScript (Vanilla) |
-| **Hosting** | GitHub Pages |
-| **Screenshots** | Vercel + Puppeteer API |
-| **Version Control** | Git & GitHub |
 
 ---
 
@@ -176,36 +140,6 @@ function getIconForUrl(name) {
 
 ---
 
-## 📖 Backend Setup (Optional)
-
-If you want to use your own screenshot service:
-
-### Option 1: Vercel + Puppeteer (RECOMMENDED)
-
-1. Create Vercel account: https://vercel.com
-2. Deploy screenshot function
-3. Get API endpoint
-4. Update `API_ENDPOINT` in `docs/js/app.js`
-
-### Option 2: Screenshot.guru API
-
-1. Sign up: https://screenshot.guru
-2. Get API key
-3. Update in `docs/js/app.js`:
-
-```javascript
-const SCREENSHOT_API_KEY = 'your-api-key';
-```
-
-### Option 3: Run Locally with Puppeteer
-
-```bash
-npm install puppeteer
-node scripts/generate-screenshots.js
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
@@ -215,14 +149,6 @@ Contributions are welcome! To contribute:
 3. Commit changes: `git commit -m 'Add amazing feature'`
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
-
-### Ideas for Contributions:
-- Add more website monitoring
-- Improve UI/UX design
-- Add dark/light theme toggle
-- Implement website status indicators
-- Add filtering/search functionality
-- Create API documentation
 
 ---
 
@@ -237,20 +163,6 @@ Contributions are welcome! To contribute:
 ## 🌟 Why "Iris"?
 
 In ancient Greek mythology, Iris was the goddess of communication and the messenger of the gods. This dashboard serves as a "messenger," helping you communicate with and monitor 22+ websites at once. Perfect fit! 🌈
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 💬 Questions & Support
-
-- 📧 Open an issue on GitHub
-- 🐛 Report bugs via GitHub Issues
-- 💡 Suggest features via GitHub Discussions
 
 ---
 
@@ -275,19 +187,6 @@ To use your own domain:
 
 ---
 
-## 📈 Roadmap
-
-- [ ] Add website health status monitoring
-- [ ] Implement response time tracking
-- [ ] Add dark/light theme toggle
-- [ ] Create admin panel for URL management
-- [ ] Add analytics tracking
-- [ ] Mobile app version
-- [ ] Slack integration notifications
-- [ ] API for external access
-
----
-
 ## ✅ Browser Support
 
 - Chrome/Edge (Latest)
@@ -297,24 +196,11 @@ To use your own domain:
 
 ---
 
-## 🎯 Performance
-
-- **Page Load Time**: < 2 seconds
-- **Screenshot Load**: Cached, ~1 second per site
-- **Grid Rendering**: Smooth 60 FPS
-- **Mobile Optimized**: Responsive design
-
----
-
 ## 📞 Contact
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Website: [Your Website]
-- Email: your.email@example.com
+- GitHub: [@whsu45](https://github.com/YOUR_USERNAME)
 
 ---
 
 **Made with 💜 using HTML, CSS, JavaScript & GitHub Pages**
-
-[⬆️ Back to top](#-iris-dashboard)
 

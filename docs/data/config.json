@@ -1,0 +1,114 @@
+{
+  "websites": [
+    {
+      "id": "base_url",
+      "name": "base",
+      "url": "https://console.perxona.ai/eu"
+    },
+    {
+      "id": "acropolis_url",
+      "name": "acropolis",
+      "url": "https://reurl.cc/4bp5RY"
+    },
+    {
+      "id": "bounce_url",
+      "name": "bounce",
+      "url": "https://www.perxona.ai/bounce"
+    },
+    {
+      "id": "demo_site_url",
+      "name": "demo site",
+      "url": "https://demo.perxona.ai"
+    },
+    {
+      "id": "flatmedical_url",
+      "name": "flatmedical",
+      "url": "https://www.flatmedical.com/evi"
+    },
+    {
+      "id": "jpexpo_url",
+      "name": "jpexpo",
+      "url": "https://live.perxona.ai/jp/jpmarketing/"
+    },
+    {
+      "id": "nia_url",
+      "name": "nia",
+      "url": "https://reurl.cc/R9YZDz"
+    },
+    {
+      "id": "npa_url",
+      "name": "npa",
+      "url": "https://reurl.cc/VmYdnN"
+    },
+    {
+      "id": "perxona_url",
+      "name": "perxona",
+      "url": "https://www.perxona.ai/"
+    },
+    {
+      "id": "rossi_url",
+      "name": "rossi",
+      "url": "https://reurl.cc/oKROR3"
+    },
+    {
+      "id": "tribe_url",
+      "name": "tribe",
+      "url": "https://reurl.cc/W802yk"
+    },
+    {
+      "id": "yoli_url",
+      "name": "yoli",
+      "url": "https://reurl.cc/jm9nyq"
+    },
+    {
+      "id": "yushanhome_url",
+      "name": "yushan home",
+      "url": "https://www.yushanhome.com/"
+    },
+    {
+      "id": "sunorigin_url",
+      "name": "sun origin",
+      "url": "https://sunorigin.com.tw/"
+    },
+    {
+      "id": "riversoft_url",
+      "name": "riversoft",
+      "url": "https://live.perxona.ai/jp/riversoft/Luka"
+    },
+    {
+      "id": "alzak_url",
+      "name": "alzak",
+      "url": "https://live.perxona.ai/eu/alza/Alzak"
+    },
+    {
+      "id": "lotdesign_url",
+      "name": "lot design",
+      "url": "https://www.lotdesign.com.tw/"
+    },
+    {
+      "id": "emma_url",
+      "name": "emma",
+      "url": "https://reurl.cc/mk5e3W"
+    },
+    {
+      "id": "crescent_url",
+      "name": "crescent",
+      "url": "https://reurl.cc/3bEd7j"
+    },
+    {
+      "id": "boihomgo_url",
+      "name": "boihomgo",
+      "url": "https://www.boihomgo.com/"
+    },
+    {
+      "id": "rexon_url",
+      "name": "rexon",
+      "url": "https://live.perxona.ai/jp/rexon/lily"
+    },
+    {
+      "id": "pashou_url",
+      "name": "pashou",
+      "url": "https://live.perxona.ai/jp/reptile/pashou_reptile"
+    }
+  ]
+}
