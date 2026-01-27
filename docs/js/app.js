@@ -138,7 +138,7 @@ document.getElementById('refreshBtn').addEventListener('click', () => {
   renderGrid();
 });
 
-// Open All button - open all websites on current page in new tabs
+// Perxona button - open Perxona website on current page in new tabs
 document.getElementById('openAllBtn').addEventListener('click', () => {
   const startIdx = (currentPage - 1) * itemsPerPage;
   const endIdx = startIdx + itemsPerPage;

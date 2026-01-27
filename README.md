@@ -22,7 +22,7 @@ Monitor and preview 22+ websites in real-time with beautiful, responsive design.
 - 📄 **Easy Management** - Update URLs in a simple JSON configuration
 - 🎯 **Pagination** - Navigate through multiple pages of websites
 - 🔄 **Refresh** - Manually refresh all previews
-- 📂 **Open All** - Open all websites on current page simultaneously
+- 📂 **Perxona** - Open Perxona website on current page simultaneously
 
 ---
 
@@ -62,7 +62,7 @@ Monitor and preview 22+ websites in real-time with beautiful, responsive design.
 1. **[Click here to open the live dashboard](https://YOUR_USERNAME.github.io/iris/)**
 2. Navigate between pages using Previous/Next buttons
 3. Click any card to open the website
-4. Use "Open All" to open all websites on the current page
+4. Use "Perxona" to open Perxona website on the current page
 
 ### For Developers
 
